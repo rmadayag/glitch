@@ -8,13 +8,13 @@ const VideoSection = () => {
   const glitchVideos = [
     { id: 1, title: "Rising Tides", videoId: "KSGlYMUG1_w", url: "https://youtu.be/KSGlYMUG1_w?si=k4curLLtKR60wg2H" },
     { id: 2, title: "Welcome To The Glitch Inn!", videoId: "IfF7faMA9dQ", url: "https://youtu.be/IfF7faMA9dQ?si=B4S48_OF5DZuWSvp" },
-    { id: 3, title: "A Very Special Digital Circus Song", videoId: "lmc0tpOHBHA", url: "https://youtu.be/lmc0tpOHBHA?si=9pRTH66ROFgMamin" },
+    { id: 3, title: "A Very Special Digital Circus", videoId: "lmc0tpOHBHA", url: "https://youtu.be/lmc0tpOHBHA?si=9pRTH66ROFgMamin" },
     { id: 4, title: "THE AMAZING DIGITAL CIRCUS", videoId: "4ofJpOEXrZs", url: "https://youtu.be/4ofJpOEXrZs?si=rm3hE8KOtwd6FwYt" },
     { id: 5, title: "DIGITAL CIRCUS: Pilot Official", videoId: "rafQwY9n_M0", url: "https://youtu.be/rafQwY9n_M0?si=qfWuI0kajJze4Wmt" },
     { id: 6, title: "Murder Drones Training Video", videoId: "SBTA3Tegacs", url: "https://youtu.be/SBTA3Tegacs?si=xK2KN4zTTqy3sXEj" },
     { id: 7, title: "MURDER DRONES - Episode 7", videoId: "EOqw86OGIB0", url: "https://youtu.be/EOqw86OGIB0?si=ZDi4IVVtQU2KDX7_" },
     { id: 8, title: "FINAL DESTINATION", videoId: "NdTCh97qHbQ", url: "https://youtu.be/NdTCh97qHbQ?si=g-2GeUrmj7sFhOK-" },
-    { id: 9, title: "POMNI WAKE UP TIME TO GO ON AN ADVENTURE", videoId: "FkXhKu80CWU", url: "https://youtu.be/FkXhKu80CWU?si=FKSj__K7C568dkYH" },
+    { id: 9, title: "POMNI WAKE UP TIME TO GO", videoId: "FkXhKu80CWU", url: "https://youtu.be/FkXhKu80CWU?si=FKSj__K7C568dkYH" },
     { id: 10, title: "N Calls Everyone", videoId: "pZGxy7WoMdg", url: "https://youtu.be/pZGxy7WoMdg?si=Lwyk-PtZYYToSXqQ" },
   ];
 
@@ -23,7 +23,7 @@ const VideoSection = () => {
     { id: 2, title: "Despicable Mr. Puzzles", videoId: "L1xqNvs2BDs", url: "https://youtu.be/L1xqNvs2BDs?si=QVfkODI1TCd6ZDjO" },
     { id: 3, title: "SMG4 and the Meme Factory", videoId: "yd-c-yp2_H8", url: "https://youtu.be/yd-c-yp2_H8?si=a3fnKH9wk7ehIW45" },
     { id: 4, title: "MEME HUNTERS", videoId: "ryTJNSLt-m0", url: "https://youtu.be/ryTJNSLt-m0?si=Iw1OP9CIbi0zy_b3" },
-    { id: 5, title: "REMASTERED64: Mario's Road Trip", videoId: "BYBEy2nXdMM", url: "https://youtu.be/BYBEy2nXdMM?si=kzKyDuQcE6V3Yvh9" },
+    { id: 5, title: "REMASTERED64: Mario's Road...", videoId: "BYBEy2nXdMM", url: "https://youtu.be/BYBEy2nXdMM?si=kzKyDuQcE6V3Yvh9" },
     { id: 6, title: "I Put Mario In Danger For Views", videoId: "WUAbFcf5Bko", url: "https://youtu.be/WUAbFcf5Bko?si=-pkciRyvuumMNroZ" },
     { id: 7, title: "Mario's Plane Trip", videoId: "fo31JWhERU4", url: "https://youtu.be/fo31JWhERU4?si=FOKr-jcMRr3ueFsZ" },
     { id: 8, title: "SMG4 Simulator", videoId: "1k3TqXoMrSw", url: "https://youtu.be/1k3TqXoMrSw?si=_lPxhFnt5CIrbCmh" },
